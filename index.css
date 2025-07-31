@@ -44,6 +44,7 @@ header{
 }
 .nav_bar a:hover{
     border-bottom: 4px solid red;
+    color:blue;
 }
 .nav_bar a sup{
     color: red;
