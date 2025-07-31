@@ -139,3 +139,6 @@ footer_container{
     text-align: end;
     padding: 15px;
 }
+. copyright:hover{
+    Background-color:blue;
+}
